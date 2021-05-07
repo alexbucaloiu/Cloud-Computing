@@ -11,7 +11,7 @@ const Form = (props) => {
             <input
               type="text"
               className="form-control"
-              placeholder="Oras"
+              placeholder="City"
               name="city"
               autoComplete="off"
             />
@@ -20,7 +20,7 @@ const Form = (props) => {
             <input
               type="text"
               className="form-control"
-              placeholder="Tara"
+              placeholder="Country"
               name="country"
               autoComplete="off"
             />
